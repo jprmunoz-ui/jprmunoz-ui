@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working Database for a school project<br>- 🌱 I’m currently learning on Introduction to Cyber Security<br>- 👯 I’m looking to collaborate on a Database system<br>- 🤔 I’m looking for help with Basics of Cyber Security<br>- 💬 Ask me about anything<br>- 📫 How to reach me: jprmunoz@addu.edu.ph<br>- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on Database for a school project<br>- 🌱 I’m currently learning Introduction to Cyber Security<br>- 👯 I’m looking to collaborate on a Database system<br>- 🤔 I’m looking for help with Basics of Cyber Security<br>- 💬 Ask me about anything<br>- 📫 How to reach me: jprmunoz@addu.edu.ph<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
